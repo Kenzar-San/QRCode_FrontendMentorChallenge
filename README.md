@@ -21,8 +21,8 @@ Screenshot do site vista por Desktop e por Mobile
 
 ### Feito com 
 
--HTML
--CSS
+- HTML
+- CSS
 
 ### O que aprendi
 
